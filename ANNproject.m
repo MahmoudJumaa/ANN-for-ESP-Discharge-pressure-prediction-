@@ -1,6 +1,6 @@
 clc; clear all; close all; % clearvars;
 
-%% This code was prepared by: Amjed Hassan Email:(amjed.mohammed@kfupm.edu.sa)  
+%% This code was prepared by: Amjed Hassan and Mahmoud Jumaa 
 
 %% 
 
